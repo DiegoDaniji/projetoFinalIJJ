@@ -17,16 +17,6 @@ Aqui você encontrará:
 * ✅ Práticas de **Git e GitHub** 🛠️
 * ✅ Aprendizados e desafios ao longo do curso 🎯
 
-## 📂 Estrutura do Projeto
-```
-📦 Squad-Null
-├── 📁 Diego        # Pasta do Diego
-├── 📁 Jeiel        # Pasta do Jeiel
-├── 📁 Wylker       # Pasta do Wylker
-├── LICENSE        # Licença do projeto
-└── README.md      # Este arquivo super legal 😎
-```
-
 ## 📜 Como Usar
 
 1.  **Clone o repositório**
