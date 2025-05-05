@@ -4,9 +4,12 @@ Bem-vindo ao repositório do **Squad Null!** 🎉 Aqui você encontra nossos pro
 
 ## 👥 Membros do Squad
 
-* **Jeiel Jacques** 🏆
-* **Diego Daniji** 🔥
-* **Wylker da Costa** 🚀
+* ![image](https://github.com/user-attachments/assets/f451e95c-01ef-459e-a920-2eb738922bf7) [**Jeiel Jacques**](https://www.linkedin.com/in/jeieljacques/)🏆
+
+* ![image](https://github.com/user-attachments/assets/80db651d-1e40-4d95-8949-f773242e335c) [**Diego Daniji**](https://www.linkedin.com/in/diego-daniji/)🔥
+
+* ![image](https://github.com/user-attachments/assets/dff69370-bef9-485e-9c67-11d6af960627) [**Wylker da Costa**](https://www.linkedin.com/in/wylker/)🚀
+
 
 ## 📌 Sobre o Repositório
 
@@ -36,7 +39,6 @@ Aqui você encontrará:
 
 * **Python** 🐍
 * **Git & GitHub** 🌍
-* **Pytest** 🧪 (para testes)
 * **Automação de QA** ✅
 
 ## 🤝 Contribuição
